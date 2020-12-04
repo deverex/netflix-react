@@ -1,0 +1,138 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Footer /> renders the <Footer /> with populated data 1`] = `
+<div
+  class="footer__Container-alnijs-0 eORCAM"
+>
+  <p
+    class="footer__Title-alnijs-4 iQvJpC"
+  >
+    Questions ? Contact Us.
+  </p>
+  <p
+    class="footer__Break-alnijs-6 uTqSh"
+  />
+  <div
+    class="footer__Row-alnijs-2 ZFMsH"
+  >
+    <div
+      class="footer__Column-alnijs-1 jJuKdv"
+    >
+      <a
+        class="footer__Link-alnijs-3 eDRVpg"
+        href="#"
+      >
+        FAQ
+      </a>
+      <a
+        class="footer__Link-alnijs-3 eDRVpg"
+        href="#"
+      >
+        Investor Relations
+      </a>
+      <a
+        class="footer__Link-alnijs-3 eDRVpg"
+        href="#"
+      >
+        Ways to Watch
+      </a>
+      <a
+        class="footer__Link-alnijs-3 eDRVpg"
+        href="#"
+      >
+        Corporate Information
+      </a>
+      <a
+        class="footer__Link-alnijs-3 eDRVpg"
+        href="#"
+      >
+        Netflix Originals
+      </a>
+    </div>
+    <div
+      class="footer__Column-alnijs-1 jJuKdv"
+    >
+      <a
+        class="footer__Link-alnijs-3 eDRVpg"
+        href="#"
+      >
+        Help Centre
+      </a>
+      <a
+        class="footer__Link-alnijs-3 eDRVpg"
+        href="#"
+      >
+        Jobs
+      </a>
+      <a
+        class="footer__Link-alnijs-3 eDRVpg"
+        href="#"
+      >
+        Terms of Use
+      </a>
+      <a
+        class="footer__Link-alnijs-3 eDRVpg"
+        href="#"
+      >
+        Contact Us
+      </a>
+    </div>
+    <div
+      class="footer__Column-alnijs-1 jJuKdv"
+    >
+      <a
+        class="footer__Link-alnijs-3 eDRVpg"
+      >
+        Account
+      </a>
+      <a
+        class="footer__Link-alnijs-3 eDRVpg"
+      >
+        Redeem Gift Card
+      </a>
+      <a
+        class="footer__Link-alnijs-3 eDRVpg"
+      >
+        Privacy
+      </a>
+      <a
+        class="footer__Link-alnijs-3 eDRVpg"
+      >
+        Speed Test
+      </a>
+    </div>
+    <div
+      class="footer__Column-alnijs-1 jJuKdv"
+    >
+      <a
+        class="footer__Link-alnijs-3 eDRVpg"
+      >
+        Buy Gift Cards
+      </a>
+      <a
+        class="footer__Link-alnijs-3 eDRVpg"
+      >
+        Cookie Preferences
+      </a>
+      <a
+        class="footer__Link-alnijs-3 eDRVpg"
+      >
+        Legal Notices
+      </a>
+      <a
+        class="footer__Link-alnijs-3 eDRVpg"
+      >
+        Corporate Information
+      </a>
+    </div>
+  </div>
+  <p
+    class="footer__Break-alnijs-6 uTqSh"
+  />
+  <p
+    class="footer__Text-alnijs-5 hRoPqX"
+  >
+    Netflix United States
+  </p>
+</div>
+`;
